@@ -3,6 +3,7 @@
 - 🌟 Pronouns: he/him
 - 📚 First year of Systems Analysis and Development on Faculdade Senac
 - 😸 Nice to meet ya!
+- English and Portuguese 🇬🇧 🇧🇷 
 
  <div>
   <a href="https://github.com/mattd02">
