@@ -1,16 +1,13 @@
 ### Hi! My name is Matheus Dutra
 
 - 🌟 Pronouns: he/him
-- 📚 First year of Systems Analysis and Development on Faculdade Senac
+- 📚 Systems Analysis and Development on Faculdade UniCEUB
 - 😸 Nice to meet ya!
 - English and Portuguese 🇬🇧 🇧🇷
 - Discord: ruvo#6172 
 
  <div>
   <a href="https://github.com/mattd02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattd02&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattd02&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="matt-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
