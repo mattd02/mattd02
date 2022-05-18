@@ -14,9 +14,6 @@
   <img align="center" alt="matt-Python" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="mattd02" height="100" width="100" src="https://pa1.narvii.com/7048/4fd9df5f38e237854a9c2c5f105f8905c796ea23r1-320-320_hq.gif">
 </div>
-<div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattd02)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <div> 
   <a href = "mailto:matheustd2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mattd2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
