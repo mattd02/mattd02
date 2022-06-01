@@ -4,8 +4,6 @@
 - 📚 Systems Analysis and Development on Faculdade UniCEUB
 - 😸 Nice to meet ya!
 - English and Portuguese 🇬🇧 🇧🇷
-- Discord: ruvo#6172 
-
  <div>
   <a href="https://github.com/mattd02">
   
