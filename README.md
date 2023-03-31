@@ -2,7 +2,6 @@
 
 - 🌟 Pronouns: he/him
 - 📚 Systems Analysis and Development on Faculdade UniCEUB
-- 😸 Nice to meet ya!
 - English and Portuguese 🇬🇧 🇧🇷
  <div>
   <a href="https://github.com/mattd02">
