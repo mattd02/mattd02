@@ -7,7 +7,6 @@
   <a href="https://github.com/mattd02">
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="matt-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="matt-Python" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="mattd02" height="100" width="100" src="https://pa1.narvii.com/7048/4fd9df5f38e237854a9c2c5f105f8905c796ea23r1-320-320_hq.gif">
 </div>
