@@ -1,6 +1,6 @@
 <h1>👋 Olá! Meu nome é Matheus Dutra<h1>
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas pelo UniCeub
+- 📚 Formado em Análise e Desenvolvimento de Sistemas pelo UniCeub
 - 📚 Estudante de Gestão de Políticas Públicas pela UnB
 - Interesses: Data Science, Análise de Dados
 - English and Portuguese 🇬🇧 🇧🇷
